@@ -1,8 +1,7 @@
 # ApiKeyGen
 [![Packagist](https://img.shields.io/badge/build-passing-brightgreen)](https://packagist.org/packages/vimeo/psalm)
 [![Packagist](https://img.shields.io/badge/code%20quality-10-brightgreen)](https://packagist.org/packages/vimeo/psalm)
-[![Packagist](https://img.shields.io/badge/downloads-574M-brightgreen)](https://packagist.org/packages/vimeo/psalm)
-#### Test versions of the program are closed access, only for developers and blogger's review.
+[![Packagist](https://img.shields.io/badge/downloads-546-brightgreen)](https://packagist.org/packages/vimeo/psalm)
 ##### Windows 7/8/8.1/10
 
 ## 📗 Version - 9.1.3 - stable
